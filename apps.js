@@ -34,7 +34,7 @@ window.addEventListener('load',()=>{
                 locationTimezone.textContent = data.name;
                 temperatureDegree.textContent = temp;
             //setting the formula for celcius 
-             let celcius = (temperature - 32)*(5/9);
+             let celcius = (temp - 32) * (5 / 9);
                 icons.innerHTML = `<img src="http://openweathermap.org/img/wn/${icon}@2x.png">`;
 
                 //change temperature to celcius 
@@ -44,6 +44,7 @@ window.addEventListener('load',()=>{
                          temperatureDegree.textContent = Math.floor(celcius);
                      }else{
                         temperatureSpan.textContent = "F";
+                        temperatureDegree.textContent = temp;
                      }
                  })
 

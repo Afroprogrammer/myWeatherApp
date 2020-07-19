@@ -39,3 +39,9 @@ body{
 .degree-section h2{
     font-size: 40px;
 }
+.temperature-description{
+    font-style: italic;
+    font-weight: 900;
+    font-family: monospace;
+    font-size: large;
+}
