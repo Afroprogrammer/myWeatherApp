@@ -33,12 +33,15 @@ window.addEventListener('load',()=>{
                 temperatureDescription.textContent = description;
                 locationTimezone.textContent = data.name;
                 temperatureDegree.textContent = temp;
+            //setting the formula for celcius 
+             let celcius = (temperature - 32)*(5/9);
                 icons.innerHTML = `<img src="http://openweathermap.org/img/wn/${icon}@2x.png">`;
 
                 //change temperature to celcius 
                  temperatureSection.addEventListener('click',()=>{
                      if (temperatureSpan.textContent === "F"){
                          temperatureSpan.textContent = "C";
+                         temperatureDegree.textContent = Math.floor(celcius);
                      }else{
                         temperatureSpan.textContent = "F";
                      }
