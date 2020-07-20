@@ -13,7 +13,7 @@ An Open-Source Weather App. A simple project i buit used to test my vanilla Java
 * [Contributing](#contributing)
 
 ## General info
-An open-source weather app. Built with plain Vanilla Javascript,Html,Css and openWeatherMap api to test my JavaScript skills i am hoping to make it have more functionaliteis and turn it into a progressive webapp for people to install and use.
+An open-source weather app. Built with plain Vanilla Javascript,Html,Css and openWeatherMap api to test my JavaScript skills i am hoping to make it have more functionaliteis and turn it into a progressive webapp for people to install and use. Allow the app to access your location for it to get information about your longtitude and latitude to send you the updates.
 
 ## Screenshots
 the simple Html and css used as the interface is mobile responsive to fit and display well on any given screen-size 
