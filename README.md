@@ -1,6 +1,6 @@
 # myWeatherApp
 
-An Open-Source Weather App. A simple project i buit used to test my vanilla JavaScript kills. The project would be hosted on github pages.
+An Open-Source Weather App. A simple project i buit used to test my vanilla JavaScript kills. The project would be hosted here ----> [github pages](https://afroprogrammer.github.io/myWeatherApp/). Note allow the app to access your location for it to work well.
 
 ## Table of Contents
 * [General info](#general-info)
