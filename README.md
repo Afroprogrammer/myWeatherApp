@@ -1,6 +1,6 @@
 # myWeatherApp
 
-An Open-Source Weather App. A simple project i buit used to test my vanilla JavaScript kills. The project would be hosted here ----> [github pages](https://afroprogrammer.github.io/myWeatherApp/). Note allow the app to access your location for it to work well.
+An Open-Source Weather App. A simple project i built used to test my vanilla JavaScript skills. The project would be hosted here ----> [github pages](https://afroprogrammer.github.io/myWeatherApp/). Note allow the app to access your location for it to work well.
 
 ## Table of Contents
 * [General info](#general-info)
@@ -13,7 +13,7 @@ An Open-Source Weather App. A simple project i buit used to test my vanilla Java
 * [Contributing](#contributing)
 
 ## General info
-An open-source weather app. Built with plain Vanilla Javascript,Html,Css and openWeatherMap api to test my JavaScript skills i am hoping to make it have more functionaliteis and turn it into a progressive webapp for people to install and use. Allow the app to access your location for it to get information about your longtitude and latitude to send you the updates.
+An open-source weather app. Built with plain Vanilla Javascript,Html,Css and openWeatherMap api to test my JavaScript skills. I am hoping to turn it into a progressive webapp for people to install and use. Allow the app to access your location for it to get information about your longtitude and latitude to send you weather the updates.
 
 ## Screenshots
 the simple Html and css used as the interface is mobile responsive to fit and display well on any given screen-size 
